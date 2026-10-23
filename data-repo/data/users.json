@@ -1,0 +1,5 @@
+[{"username":"md","name":"Managing Director","role":"MD","hash":"e5bf4ea9d3ca8e7b01358689ef7fa132071ecb0adc8fddf8d4b268c868354707"},
+{"username":"gm","name":"General Manager","role":"GM","hash":"e5bf4ea9d3ca8e7b01358689ef7fa132071ecb0adc8fddf8d4b268c868354707"},
+{"username":"purchase","name":"Purchase Dept","role":"PURCHASE","hash":"e5bf4ea9d3ca8e7b01358689ef7fa132071ecb0adc8fddf8d4b268c868354707"},
+{"username":"store","name":"Store Keeper","role":"STORE","hash":"e5bf4ea9d3ca8e7b01358689ef7fa132071ecb0adc8fddf8d4b268c868354707"},
+{"username":"site","name":"Site Incharge","role":"SITE_INCHARGE","hash":"e5bf4ea9d3ca8e7b01358689ef7fa132071ecb0adc8fddf8d4b268c868354707"}]
