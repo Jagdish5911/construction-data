@@ -1,5 +1,15 @@
 [
  {
+  "id": "68ae59ea",
+  "siteId": "s1",
+  "materialId": "m2",
+  "type": "CONSUMPTION",
+  "qty": 500,
+  "rate": 670,
+  "by": "chirag",
+  "at": "2026-10-23T07:36:51.372Z"
+ },
+ {
   "id": "3edfe3b7",
   "siteId": "s1",
   "materialId": "m1",
