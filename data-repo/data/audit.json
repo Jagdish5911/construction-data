@@ -1,5 +1,15 @@
 [
  {
+  "at": "2026-10-23T07:39:58.829Z",
+  "user": "md",
+  "action": "STOCK_CONSUMPTION",
+  "detail": {
+   "siteId": "s1",
+   "materialId": "m2",
+   "qty": 120
+  }
+ },
+ {
   "at": "2026-10-23T07:37:30.850Z",
   "user": "chirag",
   "action": "STOCK_RECEIPT",
