@@ -1,1 +1,11 @@
-[]
+[
+ {
+  "id": "faad7bcc",
+  "siteId": "s1",
+  "materialId": "m2",
+  "qty": 5800,
+  "status": "DRAFT",
+  "by": "chirag",
+  "at": "2026-10-23T07:26:10.858Z"
+ }
+]
