@@ -1,1 +1,12 @@
-[]
+[
+ {
+  "at": "2026-10-23T07:16:19.819Z",
+  "user": "chirag",
+  "action": "STOCK_CONSUMPTION",
+  "detail": {
+   "siteId": "s1",
+   "materialId": "m2",
+   "qty": 1200
+  }
+ }
+]
