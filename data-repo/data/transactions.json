@@ -1,5 +1,15 @@
 [
  {
+  "id": "1332dc45",
+  "siteId": "s1",
+  "materialId": "m1",
+  "type": "DAMAGE",
+  "qty": 2,
+  "rate": 20000,
+  "by": "chirag",
+  "at": "2026-10-23T07:45:57.878Z"
+ },
+ {
   "id": "c8323992",
   "siteId": "s1",
   "materialId": "m2",
