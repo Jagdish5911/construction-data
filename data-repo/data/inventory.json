@@ -11,10 +11,10 @@
  {
   "siteId": "s1",
   "materialId": "m1",
-  "availableQty": 32500,
+  "availableQty": 32503,
   "minimumLimit": 200,
   "reorderQty": 500,
-  "unitRate": 600,
-  "updated": "2026-10-23T07:35:22.160Z"
+  "unitRate": 500,
+  "updated": "2026-10-23T07:37:25.911Z"
  }
 ]
