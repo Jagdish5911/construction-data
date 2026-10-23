@@ -1,1 +1,12 @@
-[]
+[
+ {
+  "id": "a8497b3c",
+  "siteId": "s1",
+  "materialId": "m2",
+  "type": "CONSUMPTION",
+  "qty": 1200,
+  "rate": 670,
+  "by": "chirag",
+  "at": "2026-10-23T07:16:15.567Z"
+ }
+]
