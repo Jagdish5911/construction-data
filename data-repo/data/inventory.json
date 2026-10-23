@@ -2,10 +2,10 @@
  {
   "siteId": "s1",
   "materialId": "m2",
-  "availableQty": -4800,
+  "availableQty": -6000,
   "minimumLimit": 300,
   "reorderQty": 1000,
   "unitRate": 0,
-  "updated": "2026-10-23T07:16:20.810Z"
+  "updated": "2026-10-23T07:16:22.447Z"
  }
 ]
