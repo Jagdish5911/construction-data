@@ -7,5 +7,14 @@
   "reorderQty": 1000,
   "unitRate": 0,
   "updated": "2026-10-23T07:16:29.816Z"
+ },
+ {
+  "siteId": "s1",
+  "materialId": "m1",
+  "availableQty": 15000,
+  "minimumLimit": 200,
+  "reorderQty": 500,
+  "unitRate": 670,
+  "updated": "2026-10-23T07:21:02.399Z"
  }
 ]
