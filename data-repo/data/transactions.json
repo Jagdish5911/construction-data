@@ -1,5 +1,15 @@
 [
  {
+  "id": "f781ee7d",
+  "siteId": "s1",
+  "materialId": "m2",
+  "type": "RECEIPT",
+  "qty": 10000,
+  "rate": 100,
+  "by": "chirag",
+  "at": "2026-10-23T07:44:40.177Z"
+ },
+ {
   "id": "7600a9e2",
   "siteId": "s1",
   "materialId": "m2",
