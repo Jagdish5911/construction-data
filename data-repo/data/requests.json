@@ -1,5 +1,14 @@
 [
  {
+  "id": "18b880f8",
+  "siteId": "s1",
+  "materialId": "m2",
+  "qty": 10020,
+  "status": "DRAFT",
+  "by": "md",
+  "at": "2026-10-23T07:40:14.509Z"
+ },
+ {
   "id": "b19ac7c0",
   "siteId": "s1",
   "materialId": "m2",
