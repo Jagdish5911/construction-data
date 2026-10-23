@@ -1,5 +1,15 @@
 [
  {
+  "at": "2026-10-23T07:44:46.453Z",
+  "user": "chirag",
+  "action": "STOCK_RECEIPT",
+  "detail": {
+   "siteId": "s1",
+   "materialId": "m2",
+   "qty": 10000
+  }
+ },
+ {
   "at": "2026-10-23T07:44:43.174Z",
   "user": "chirag",
   "action": "STOCK_RECEIPT",
