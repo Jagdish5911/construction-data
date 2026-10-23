@@ -6,9 +6,9 @@
   "status": "OPEN",
   "at": "2026-10-23T07:45:15.101Z",
   "alertType": "NEGATIVE_STOCK",
-  "availableQty": -400,
+  "availableQty": -402,
   "minimumLimit": 200,
-  "requiredQty": 900,
+  "requiredQty": 902,
   "dept": "Civil"
  },
  {
