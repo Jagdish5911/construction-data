@@ -3,7 +3,7 @@
   "id": "ba4a56c9",
   "siteId": "s1",
   "materialId": "m2",
-  "status": "OPEN",
+  "status": "RESOLVED",
   "at": "2026-10-23T07:16:17.477Z",
   "alertType": "NEGATIVE_STOCK",
   "availableQty": -9140,
